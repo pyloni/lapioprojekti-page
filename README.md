@@ -1,1 +1,1 @@
-Github page: [!https://pyloni.github.io/lapioprojekti-page/](sivu)
+Github page: [Sivu](https://pyloni.github.io/lapioprojekti-page/)
